@@ -23,3 +23,11 @@ h3 {
         transform: rotateX(0);
     }
 }
+
+
+@media (max-width: 509px) {
+    h1 {
+        font-size: 2.3em;
+        text-align: center;
+    }
+}
